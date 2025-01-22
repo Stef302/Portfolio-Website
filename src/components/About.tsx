@@ -6,9 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am a gamer and player of many games like fortnite, Brawl stars and other.
+          I am part of a Brawl group and club .
         </p>
       </div>
     </div>
